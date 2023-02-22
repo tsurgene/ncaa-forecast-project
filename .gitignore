@@ -8,6 +8,7 @@
 
 # exclude large files
 video/*
+*/MMasseyOrdinals.csv
 
 # exclude notebook checkpoints
 .ipynb_checkpoints
