@@ -1,0 +1,19 @@
+.DS_Store
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.mp4
+*.zip
+
+# exclude large files
+video/*
+
+# exclude notebook checkpoints
+.ipynb_checkpoints
+
+# exclude run script
+
+# exclude Pycharm virtual env
+.idea
+venv/
