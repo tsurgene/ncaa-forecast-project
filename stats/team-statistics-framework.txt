@@ -1,0 +1,53 @@
+KG (Games):  Season  [DayNum]  (WTeamID)  WScore  LScore  <FGM/FGA>  <FGM3/FGA3>  <FTM/FTA>  <OR+DR>  Ast  TO   Stl  Blk  PF  <WScore-LScore>  {Empty}
+KG (Games):  Season  [DayNum]  TeamID     WScore  LScore  FGPCT      FG3PCT       FTPCT      TRB      AST  TOV  STL  BLK  PF  MOV              NCAA
+
+SR (Teams):  Season  {Empty}   TeamID     NCAA     ovTeamPNTS  {Empty}    ovOppsPNTS  ovTeamMOV        {Empty}  {Empty}  <FGM/FGA>    <FGM3/FGA3>  <FTM/FTA>  <OR+DR>  Ast       TO        Stl       Blk       PF
+
+•Season
+•TeamID
+•NCAA
+
+Points :
+•ovTeamMOV
+
+Experence :
+ovGames
+ovTeamSOS
+ovTeamOSRS
+ovTeamDSRS
+ovTeamSRS
+
+Winning Percentage :
+ovWinPCT
+ovConfPCT
+ovHomePCT
+ovAwayPCT
+
+Shooting :
+•ovTeamPNTS	•ovOppsPNTS
+ovTeamTSPCT	ovOppsTSPCT
+ovTeameFGPCT	ovOppseFGPCT
+•pgTeamFGPCT	pgOppsFGPCT
+•pgTeam3PPCT	pgOpps3PPCT
+ovTeam3PAr	ovOpps3PAr
+•pgTeamFTPCT	pgOppsFTPCT
+ovTeamFTr	ovOppsFTr
+
+Possessions :
+pgTeamPace	pgOppsPace
+pgTeamMins	pgOppsMins
+pgTeamORB	pgOppsORB
+•pgTeamTRB	pgOppsTRB
+•pgTeamTOV	pgOppsTOV
+•pgTeamSTL	pgOppsSTL
+
+Teamwork :
+•pgTeamAST	pgOppsAST
+•pgTeamBLK	pgOppsBLK
+•pgTeamPF	pgOppsPF
+
+
+
+
+
+Season,DayNum,WTeamID,WScore,LTeamID,LScore,WLoc,NumOT,WFGM,WFGA,WFGM3,WFGA3,WFTM,WFTA,WOR,WDR,WAst,WTO,WStl,WBlk,WPF,LFGM,LFGA,LFGM3,LFGA3,LFTM,LFTA,LOR,LDR,LAst,LTO,LStl,LBlk,LPF

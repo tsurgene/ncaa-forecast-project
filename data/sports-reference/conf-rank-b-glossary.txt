@@ -1,0 +1,15 @@
+Also view explanations by holding mouse over column headers
+Rk -- Rank
+Schls -- Number of schools
+W -- Wins
+L -- Losses
+W-L% -- Win-Loss percentage
+SRS -- Simple Rating System
+A rating that takes into account average point differential and strength of schedule. The rating is denominated in points above/below average, where zero is average. Non-Division I games are excluded from the ratings.
+SOS -- Strength of Schedule
+A rating of strength of schedule. The rating is denominated in points above/below average, where zero is average. Non-Division I games are excluded from the ratings.
+AP -- Number of schools ranked in final AP poll (poll taken before the conclusion of the NCAA tournament)
+NCAA -- Number of NCAA Tournament appearances
+FF -- Number of NCAA Final Four appearances
+Regular Season Champ -- Regular season conference champion
+Tournament Champ -- Conference tournament champion

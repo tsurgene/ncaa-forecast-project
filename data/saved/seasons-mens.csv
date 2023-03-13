@@ -1,0 +1,15 @@
+Season,StartDate,RegionW,RegionX,RegionY,RegionZ
+2010,2009-11-02,East,South,Midwest,West
+2011,2010-11-01,East,West,Southeast,Southwest
+2012,2011-10-31,East,Midwest,South,West
+2013,2012-11-05,East,South,Midwest,West
+2014,2013-11-04,East,South,Midwest,West
+2015,2014-11-03,East,South,Midwest,West
+2016,2015-11-02,East,Midwest,South,West
+2017,2016-10-31,East,West,Midwest,South
+2018,2017-10-30,East,Midwest,South,West
+2019,2018-11-05,East,West,Midwest,South
+2020,2019-11-04,NA1,NA2,NA3,NA4
+2021,2020-11-02,East,West,Midwest,South
+2022,2021-11-01,East,West,Midwest,South
+2023,2022-10-31,TBD,TBD,TBD,TBD
