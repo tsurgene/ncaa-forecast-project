@@ -9,6 +9,7 @@
 # exclude large files
 video/*
 */*MMasseyOrdinals.csv
+*/*MMasseyOrdinals_thru_Season2023_Day128.csv
 
 # exclude notebook checkpoints
 .ipynb_checkpoints
