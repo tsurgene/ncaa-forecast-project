@@ -8,9 +8,10 @@
 
 # exclude large files
 video/*
+/Users/cyruss/Documents/GitHub/•private/projects/ncaa-forecast-project/march-machine-learning-mania-2023/mens/MMasseyOrdinals.csv
 */*MMasseyOrdinals.csv
-*/*/*/*MMasseyOrdinals_thru_Season2023_Day128.csv
-*/*/*/*MMasseyOrdinals*
+*/*MMasseyOrdinals_thru_Season2023_Day128.csv
+*/*MMasseyOrdinals*
 
 # exclude notebook checkpoints
 .ipynb_checkpoints
